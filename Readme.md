@@ -1,6 +1,5 @@
 #### :briefcase: Это дипломный проект на тему «Модель прогнозирования стоимости жилья для агентства недвижимости»
 <img src="https://st28.stblizko.ru/images/product/259/376/150_original.jpg" width=50% height=50%>
-![hh.ry](https://st28.stblizko.ru/images/product/259/376/150_original.jpg)
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
